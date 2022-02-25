@@ -3,7 +3,7 @@ Trabalho 1 de Programação de Computadores 2
 [![Linguagem C++](https://img.shields.io/badge/Linguagem-C%2B%2B-green.svg)](https://github.com/PedroLouback/TrabalhoFinal-Prog.2)
 [![requirement](https://img.shields.io/badge/IDE-Visual%3A%3AStudio%3A%3AComunity2022-orange.svg)](https://visualstudio.microsoft.com/pt-br/downloads/)
 
-Primeiro trabalho feita durante o 2º período na matéria de `Laboratório de Programação de Computadores 2 do curso de Engenharia da Computação no CEFET-MG Campus Divinópolis`. Trabalho feito utilizando POO(Programação Orientada a Objetos) e listas encadeadas.
+Primeiro trabalho feita durante o 2º período na matéria de `Programação de Computadores 2 do curso de Engenharia da Computação no CEFET-MG Campus Divinópolis`. Trabalho feito utilizando POO(Programação Orientada a Objetos) e listas encadeadas.
 
 ## Diagrama de classe 
 
