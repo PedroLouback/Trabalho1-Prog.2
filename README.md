@@ -14,15 +14,25 @@ Primeiro trabalho feita durante o 2º período na matéria de `Laboratório de P
 O main deve ser implementado de forma que ele permita que o usuário digite: 
 
 •	1 para cadastrar um médico.
+
 •	2 para cadastrar um paciente.
+
 •	3 para cadastrar uma consulta.
+
 •	4 para imprimir dados do médico.
+
 •	5 para imprimir consultas.
+
 •	6 para imprimir dados do paciente.
+
 •	7 para imprimir data, hora, paciente e médico de uma consulta em específico.
+
 •	9 para remover médico.
+
 •	10 para remover paciente.
+
 •	11 para remover consulta.
+
 •	12 para sair.
 
 ## Sobre o Programa
